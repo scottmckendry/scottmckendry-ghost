@@ -1,0 +1,4 @@
+.env
+/ghost-db/*
+/scottmckendry-ghost/logs
+/scottmckendry-ghost/data
